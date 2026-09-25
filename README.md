@@ -2,7 +2,7 @@
   🌍 Read this in: <a href="#english">English</a> | <a href="#español">Español</a>
 </div>
 
-<h1 id="english">Hi there! I'm Angel Emilio Gutierrez Lozano</h1>
+<h1 id="english">Hi there! I'm Angel Emilio Gutierrez Lozano 😁</h1>
 
 I'm a Data Scientist and Backend Developer currently pursuing a degree in IT & Digital Innovation Engineering, holding a previous degree in Data Science and AI. 
 
@@ -25,7 +25,7 @@ When I'm not configuring my Linux environment or training neural networks, you c
 
 ---
 
-<h1 id="español">¡Hola! Soy Angel Emilio Gutierrez Lozano</h1>
+<h1 id="español">¡Hola! Soy Angel Emilio Gutierrez Lozano 😁</h1>
 
 Soy un Data Scientist y Desarrollador Backend, actualmente estudiando Ingeniería en TI e Innovación Digital, con un título previo en Ciencia de Datos e IA.
 
