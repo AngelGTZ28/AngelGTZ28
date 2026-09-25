@@ -13,7 +13,7 @@ My focus is bridging the gap between data and software engineering. I specialize
 *   **Backend & Web Frameworks:** Python, Django, Flask, JavaScript, Vue.js
 *   **Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras
 *   **Databases:** PostgreSQL, MySQL, Supabase, SQL
-*   **DevOps, Cloud & Environments:** Docker, Google Cloud Run, RESTful APIs, Linux (Custom Hyprland environments)
+*   **DevOps, Cloud & Environments:** Docker, Google Cloud Run, RESTful APIs, Linux
 
 ### 🚀 What I'm Building
 *   **Terra-Fire:** Predictive modeling for wildfire risks leveraging Machine Learning and geospatial data.
@@ -36,7 +36,7 @@ Mi enfoque es conectar el mundo de los datos con la ingeniería de software. Me 
 *   **Backend y Web:** Python, Django, Flask, JavaScript, Vue.js
 *   **Data Science y Machine Learning:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras
 *   **Bases de Datos:** PostgreSQL, MySQL, Supabase, SQL
-*   **DevOps, Cloud y Entornos:** Docker, Google Cloud Run, APIs REST, Linux (Entornos personalizados en Hyprland)
+*   **DevOps, Cloud y Entornos:** Docker, Google Cloud Run, APIs REST, Linux 
 
 ### 🚀 Lo que estoy construyendo
 *   **Terra-Fire:** Modelo predictivo de riesgo de incendios forestales utilizando Machine Learning y datos geoespaciales.
