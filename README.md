@@ -47,4 +47,4 @@ Mi enfoque es conectar el mundo de los datos con la ingeniería de software. Me 
 Cuando no estoy configurando mi entorno Linux o entrenando redes neuronales, suelo estar practicando mi inglés, tocando la guitarra eléctrica o en el campo jugando fútbol americano.
 
 ---
-*📫 Want to connect? / ¿Quieres conectar? [Inserta tu enlace a LinkedIn o correo aquí]*
+*📫 Want to connect? / ¿Quieres conectar? https://www.linkedin.com/in/angelgtz280204/*
